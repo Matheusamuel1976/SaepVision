@@ -1,0 +1,13 @@
+{
+    "name": "saep/saep-vision",
+    "description": "Sistema SAEPVision em arquitetura MVC e Orientação a Objetos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
